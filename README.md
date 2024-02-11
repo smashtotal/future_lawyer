@@ -35,8 +35,7 @@ Westlaw certainly believes it can.  In late 2023, Thomson Reuters announced seve
 The press release is rich in corporate buzzwords, as if written by a chatbot to jump on the late-2023 OpenAI fever that was then everywhere in the news.  The first two bulletpoints speak to improvements to Westlaw's current research functionality.  But the last three bulletpoints are the most important, and give the game away: Westlaw is functionally getting into the AI lawyer business.
 
 ![alt](https://raw.githubusercontent.com/smashtotal/future_lawyer/main/Westlaw_cocounsel.png)
-
-Who else does nothing but review documents and write memos the first two-to-five years of their career?  New law grads in big firms, mostly.  And it's not hard 
+##### <i>Who else does nothing but review documents and write memos the first two-to-five years of their career?  New law grads in big firms, mostly.</i>
 
 Imagine a client looking to rid itself of an eyesore of a statue. In the AI-assisted research window, the user can pose a simple question — filtered by jurisdiction, of course. While a generic AI might shotgun approach this issue and spit out random — or hallucinatory — thoughts as it tries to please the user with its result, the Westlaw response figures out not just where to look but the key requirements a lawyer needs from the answer.
 
