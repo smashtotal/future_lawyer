@@ -21,7 +21,7 @@ The legal professional itself is famously clumsy adapting to technology innovati
 
 The question is, can it do it again in the age of AI?
 
-## Robo-Research <a name="paragraph1"></a>
+## Robo-Research... and More <a name="paragraph1"></a>
 ![alt](https://cdn.discordapp.com/attachments/1148303423045910558/1206376142164987944/smashmcadams_A_robot_doing_legal_research_with_law_books_in_the_d807a4e5-d688-4338-9df2-07517f7fb64a.png?ex=65dbc855&is=65c95355&hm=a8750ebf054ee924c82a7b70a1d68724d00415998d0701afa779973805c2eb9b&)
 
 Westlaw certainly believes it can.  In late 2023, Thomson Reuters announced several new and upcoming AI products under the [Westlaw banner](https://www.prnewswire.com/news-releases/thomson-reuters-launches-generative-ai-powered-solutions-to-transform-how-legal-professionals-work-301989149.html):
@@ -32,7 +32,10 @@ Westlaw certainly believes it can.  In late 2023, Thomson Reuters announced seve
 >- <b>New GenAI capabilities for Practical Law</b> – Customers to benefit from AI chat-type interface 
 >- <b>CoCounsel Core</b> – Announcing the commercial offering of CoCounsel skills as part of the Thomson Reuters portfolio 
 
-The press release is rich in corporate buzzwords, as if written by a chatbot to jump on the late-2023 OpenAI fever that was then everywhere in the news.  The first two bulletpoints speak to improvements to Westlaw's current research functionality.  But the last three bulletpoints are the most important, and give the game away: Westlaw is going to 
+The press release is rich in corporate buzzwords, as if written by a chatbot to jump on the late-2023 OpenAI fever that was then everywhere in the news.  The first two bulletpoints speak to improvements to Westlaw's current research functionality.  But the last three bulletpoints are the most important, and give the game away: Westlaw is functionally getting into the AI lawyer business.
+
+![alt](https://drive.google.com/file/d/1a04eSL2KLmJjNJ__xaR72qDFKLgJDq3D/view?usp=drive_link)
+
 
 in 2017, and even then states remained divided between the Texas and Maryland approaches to the technology).
 
