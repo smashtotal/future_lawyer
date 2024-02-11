@@ -5,7 +5,7 @@
 
 ## Table of contents
 1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
+2. [Robo-Research](#paragraph1)
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
 
@@ -32,7 +32,7 @@ Westlaw certainly believes it can.  In late 2023, Thomson Reuters announced seve
 >- <b>New GenAI capabilities for Practical Law</b> – Customers to benefit from AI chat-type interface 
 >- <b>CoCounsel Core</b> – Announcing the commercial offering of CoCounsel skills as part of the Thomson Reuters portfolio 
 
-The press release is rich in corporate buzzwords, as if written by a chatbot to jump on the late-2023 OpenAI fever that was then everywhere in the news.  But the last three bulletpoints are the most important, and signal that 
+The press release is rich in corporate buzzwords, as if written by a chatbot to jump on the late-2023 OpenAI fever that was then everywhere in the news.  The first two bulletpoints speak to improvements to Westlaw's current research functionality.  But the last three bulletpoints are the most important, and give the game away: Westlaw is going to 
 
 in 2017, and even then states remained divided between the Texas and Maryland approaches to the technology).
 
