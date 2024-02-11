@@ -34,7 +34,7 @@ Westlaw certainly believes it can.  In late 2023, Thomson Reuters announced seve
 
 The press release is rich in corporate buzzwords, as if written by a chatbot to jump on the late-2023 OpenAI fever that was then everywhere in the news.  The first two bulletpoints speak to improvements to Westlaw's current research functionality.  But the last three bulletpoints are the most important, and give the game away: Westlaw is functionally getting into the AI lawyer business.
 
-![alt](https://drive.google.com/file/d/1a04eSL2KLmJjNJ__xaR72qDFKLgJDq3D/view?usp=drive_link)
+![alt]()
 
 
 in 2017, and even then states remained divided between the Texas and Maryland approaches to the technology).
