@@ -10,10 +10,24 @@
 3. [Another paragraph](#paragraph2)
 
 ## Institutional Westlaw <a name="introduction"></a>
-If you're an attorney 
+Most everyone is familiar with the Hollywood romantacized image on the underdog attorney doing research.  Locked in the dusty law library stacks over weekends and late into the night, he diligently reads case after case, dutifully searching for the precident that will free his innocent(?) client.
 
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
+![alt](https://reellibrarians.files.wordpress.com/2014/04/anatomyofamurderlawbooks-e1550100366918.jpg)
+##### <i>Jimmy Stewart hitting the stacks in "Anatomy of a Murder".</i>
+
+To the extent this image ever real, technnology began to slit its throat as early as 1974 when West Publishing, a publisher of case law digests and other legal publishing since 1872, developed a computer system to search case headnotes across its publications. The product entered the market in 1975, and eventually became known as Westlaw: the now ubiqutious legal research tool that took lawyers out of the stacks, and anchored them to their desktops. Out were flipping pages, and in was keyword searches by hordes of young associates, billed to clients at many hundreds of dollars-per-hour. Now owned by Thomson Reuters, Westlaw controls over 35% of the $406.1 million (as of 2019) legal research market.
+
+The legal professional itself is famously clumsy adapting to technology innovations.  (For instance, Maryland courts in 2017 created a rule that established higher bars for authenticating social media posts than other types of evidence.  This just as the world--and evidence--was moving more and more into the virtual world of Facebook and Twitter.) Yet Westlaw was a product born from the early adoption of a new technology, and its success was largely the result of that first-mover advantage. 
+
+The question is, can it do it again?
+
+## Institutional Westlaw <a name="Artificially Intelligent Rearch"></a>
+
+in 2017, and even then states remained divided between the Texas and Maryland approaches to the technology).
+
+West Publishing developed a computer system to search case headnotes across its reporters, entering the market with its technology in 1975. The product, familiar everywhere today as Westlaw, marked the beginning of one of the most successful commercial legal tools developed. In 1978, locked in competition with Mead Data Corp., Westlaw began to provide full-text search for cases. In 1979, dial-up access to the database was offered over phone lines to its customers. By the early to mid-1980s, Westlaw terminals and the services it offered were becoming increasingly indispensable to American legal consumers.
+
+for good in the '90s when improved 
 
 ### Sub paragraph <a name="subparagraph1"></a>
 This is a sub paragraph, formatted in heading 3 style
