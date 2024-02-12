@@ -7,7 +7,7 @@
 1. [Introduction](#introduction)
 2. [Robo-Research+](#paragraph1)
     1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+3. [Legal Economics](#paragraph2)
 
 ## Institutional Westlaw <a name="introduction"></a>
 Most everyone is familiar with the Hollywood romantacized image on the underdog attorney doing research.  Locked in the dusty law library stacks over weekends and late into the night, he diligently reads case after case, dutifully searching for the precident that will free his innocent(?) client.
@@ -21,7 +21,7 @@ The legal professional itself is famously clumsy adapting to technology innovati
 
 The question is, can it do it again in the age of AI?
 
-## Robo-Research+<a name="paragraph1"></a>
+## Robo-Research+ <a name="paragraph1"></a>
 ![alt](https://cdn.discordapp.com/attachments/1148303423045910558/1206376142164987944/smashmcadams_A_robot_doing_legal_research_with_law_books_in_the_d807a4e5-d688-4338-9df2-07517f7fb64a.png?ex=65dbc855&is=65c95355&hm=a8750ebf054ee924c82a7b70a1d68724d00415998d0701afa779973805c2eb9b&)
 
 Westlaw certainly believes it can.  Long before the AI dam broke, Thomson Reuters as early as 2018 was trying to incorporate AI into its products, starting with [Westlaw Edge](https://www.techlawcrossroads.com/2018/07/westlaw-edge-ai-goes-mainstream/).  In many ways, Westlaw Edge's original focus on data analytics, searching for things like how often a judge grants or denies certain types of motions, anticipated the predictive power of AI that only now is receiving mainstream attention.  
@@ -34,7 +34,7 @@ In late 2023, Thomson Reuters announced several new and upcoming AI products und
 >- <b>New GenAI capabilities for Practical Law</b> – Customers to benefit from AI chat-type interface 
 >- <b>CoCounsel Core</b> – Announcing the commercial offering of CoCounsel skills as part of the Thomson Reuters portfolio 
 
-The press release is rich in corporate buzzwords, as if written by a chatbot to jump on the late-2023 OpenAI excitement that was then everywhere in the news.  But this is a company which been active in this space for at least six years, meaning that this announcement is far from an exercise in jumping on the proverbial bnandwagon.  The first two bulletpoints speak to improvements to Westlaw's current research functionality.  But the last three bulletpoints are the most important, and give the game away: Westlaw is functionally getting into the AI lawyer business.
+The press release is rich in corporate buzzwords, as if written by a chatbot to jump on the late-2023 OpenAI excitement that was then everywhere in the news.  But this is a company which been active in this space for at least six years, meaning that this announcement is far from an exercise in jumping on the proverbial bnandwagon.  The first two bulletpoints speak to improvements to Westlaw's current research functionality.  But the last three bulletpoints are the most important, and give the game away: <i>Westlaw is functionally getting into the AI lawyer business.</i>
 
 ![alt](https://raw.githubusercontent.com/smashtotal/future_lawyer/main/Westlaw_cocounsel.png)
 ##### <i>Who else does nothing but review documents and write memos the first two-to-five years of their career?  New law grads in big firms, mostly.</i>
@@ -47,7 +47,13 @@ What about the quality of advice?  From the same post:
 
 >But an anonymous Thomson Reuters in-house customer said after seeing these new capabilities: “This is substantially the same advice I just paid to get from outside counsel and was billed about 15 hours.”
 
-So this early in the AI revolution, lawyers 
+A bad sign for anyone taking out law school loans that this early into the AI revolution, junior associates are already being outpaced by what was just their predecessors' search engine up until last year.  
+
+## Legal Economics <a name="paragraph2"></a>
+
+The economics speak in favor of 
+
+While politically connected partners are safe, 
 
 
 
