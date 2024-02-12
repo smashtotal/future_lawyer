@@ -1,11 +1,11 @@
-# The Future of Legal Research?
-### Law is famously slow to adapt to new technology.  Westlaw is trying to be the exception to the rule.
+# The Future of Legal Research, and Maybe Lawyers?
+### Law may be famously slow to adapt to new technology, but Westlaw never has.  In the Age of AI, is the future of legal research simply to replace the lawyers?  
 
 ![alt](https://cdn.discordapp.com/attachments/1148303423045910558/1206362017217122304/smashmcadams_A_robot_doing_legal_research_with_law_books_in_the_b6c68828-4be3-4f8e-bb21-ebf87bf2bcbc.png?ex=65dbbb2e&is=65c9462e&hm=5672c14fac190c45e47ece89738e26e61f2c0563a8f96642fea50bb98ab16890&)
 
 ## Table of contents
 1. [Introduction](#introduction)
-2. [Robo-Research](#paragraph1)
+2. [Robo-Research+](#paragraph1)
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
 
@@ -21,7 +21,7 @@ The legal professional itself is famously clumsy adapting to technology innovati
 
 The question is, can it do it again in the age of AI?
 
-## Robo-Research... and More <a name="paragraph1"></a>
+## Robo-Research+<a name="paragraph1"></a>
 ![alt](https://cdn.discordapp.com/attachments/1148303423045910558/1206376142164987944/smashmcadams_A_robot_doing_legal_research_with_law_books_in_the_d807a4e5-d688-4338-9df2-07517f7fb64a.png?ex=65dbc855&is=65c95355&hm=a8750ebf054ee924c82a7b70a1d68724d00415998d0701afa779973805c2eb9b&)
 
 Westlaw certainly believes it can.  In late 2023, Thomson Reuters announced several new and upcoming AI products under the [Westlaw banner](https://www.prnewswire.com/news-releases/thomson-reuters-launches-generative-ai-powered-solutions-to-transform-how-legal-professionals-work-301989149.html):
@@ -37,7 +37,9 @@ The press release is rich in corporate buzzwords, as if written by a chatbot to 
 ![alt](https://raw.githubusercontent.com/smashtotal/future_lawyer/main/Westlaw_cocounsel.png)
 ##### <i>Who else does nothing but review documents and write memos the first two-to-five years of their career?  New law grads in big firms, mostly.</i>
 
-Imagine a client looking to rid itself of an eyesore of a statue. In the AI-assisted research window, the user can pose a simple question — filtered by jurisdiction, of course. While a generic AI might shotgun approach this issue and spit out random — or hallucinatory — thoughts as it tries to please the user with its result, the Westlaw response figures out not just where to look but the key requirements a lawyer needs from the answer.
+A November 2023 <i>Above the Law</i> post discussing Westlaw's made the case for its new or upcoming AI products more bluntly than any marketing company would:
+
+>Imagine a client looking to rid itself of an eyesore of a statue. In the AI-assisted research window, the user can pose a simple question — filtered by jurisdiction, of course. While a generic AI might shotgun approach this issue and spit out random — or hallucinatory — thoughts as it tries to please the user with its result, the Westlaw response figures out not just where to look but the key requirements a lawyer needs from the answer.
 
 
 
