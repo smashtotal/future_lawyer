@@ -6,7 +6,6 @@
 ## Table of contents
 1. [Introduction](#introduction)
 2. [Robo-Research+](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
 3. [Legal Economics](#paragraph2)
 
 ## Institutional Westlaw <a name="introduction"></a>
@@ -52,79 +51,8 @@ A bad sign for anyone taking out law school loans that this early into the AI re
 ![alt](https://cdn.discordapp.com/attachments/1148303423045910558/1206412692688998522/smashmcadams_A_robot_as_a_lawyer_presenting_a_case_in_a_courtro_7aa85bf5-b233-45a8-8068-66c19607f659.png?ex=65dbea60&is=65c97560&hm=a01c853a560001ee6d3a3571d04cb375e3a16abc9b17daf2c90e037015f44dca&)
 ## Legal Economics <a name="paragraph2"></a>
 
-To be clear, the issue is not Westlaw marketing AI lawyers per se.  With [175 members of Congress](https://www.americanbar.org/advocacy/governmental_legislative_work/publications/washingtonletter/january-2021-wl/attorneys-117thcongress/) having law degrees as of 2021 and a well-oiled lobbying machine, the 
+To be clear, the issue is not Westlaw marketing AI lawyers per se.  With [175 members of Congress](https://www.americanbar.org/advocacy/governmental_legislative_work/publications/washingtonletter/january-2021-wl/attorneys-117thcongress/) having law degrees as of 2021, a well-oiled lobbying machine (many lobbying firms are [also law firms](https://www.opensecrets.org/federal-lobbying/top-lobbying-firms), after all), and a Bar exam system which allows the legal guild to determine who (or, perhaps in the future, what) can practice law, in at least the short-term there will not be chatbots arguing in court.
 
-Corporate law firms had revenues of [$160.4 billion](https://www.ibisworld.com/industry-statistics/market-size/corporate-law-firms-united-states/) in 2023. If one could 
+But they don't need to offer a fully-automated.  Labor is a cost in any industry, and however much law flatters itself as being something special--a profession, ethical standards, etc.--in the end it's still a business.  A business which, aside from keyword searches in PDFs and Westlaw case law research, has had precious few opportunities to automate.  An AI that knows every case in every jurisdiction and can put together a good-enough memo in a few minutes is to the junior law firm associate what the Chicxulub meterior was to the dinosaurs.  
 
-Corporate law 
-
-While politically connected partners are safe, 
-
-
-
-
-
-in 2017, and even then states remained divided between the Texas and Maryland approaches to the technology).
-
-West Publishing developed a computer system to search case headnotes across its reporters, entering the market with its technology in 1975. The product, familiar everywhere today as Westlaw, marked the beginning of one of the most successful commercial legal tools developed. In 1978, locked in competition with Mead Data Corp., Westlaw began to provide full-text search for cases. In 1979, dial-up access to the database was offered over phone lines to its customers. By the early to mid-1980s, Westlaw terminals and the services it offered were becoming increasingly indispensable to American legal consumers.
-
-for good in the '90s when improved 
-
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
-
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
-
-# TITLE
-
-## Overview and Origin
-
-* Name of company
-
-* When was the company incorporated?
-
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
-
-
-## Business Activities:
-
-* What specific problem is the company or project trying to solve?
-
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
-
-## Landscape:
-
-* What domain or industry is the company in?
-
-* What have been the major trends and innovations of this domain over the last 5-10 years?
-
-* What are the other major companies in this domain?
-
-
-## Results
-
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
-
-
-## Recommendations
-
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+Corporate law firms had revenues of [$160.4 billion](https://www.ibisworld.com/industry-statistics/market-size/corporate-law-firms-united-states/) in 2023.  Westlaw, through its AI product (which will no doubt improve) is offering a way for these firms to keep a higher percentage of those revenues.  Between this cost-savings (and perhaps additional savings as, unlike employee lawyers, an AI won't sue you) and the dreams of a recent law grad hoping to make big bucks, the choice is easy: Westlaw all the way.
