@@ -1,5 +1,5 @@
 # Westlaw: The Future of Legal Research, and Maybe (Junior) Lawyers?
-### Law may be famously slow to adapt to new technology, but Westlaw never has.  In the Age of AI, is the future of legal research simply to replace the lawyers?  
+### Law may be famously slow to adapt to new technology, but Westlaw never has been.  In the Age of AI, is the future of legal research simply to replace entry-level associates?  
 
 ![alt](https://cdn.discordapp.com/attachments/1148303423045910558/1206362017217122304/smashmcadams_A_robot_doing_legal_research_with_law_books_in_the_b6c68828-4be3-4f8e-bb21-ebf87bf2bcbc.png?ex=65dbbb2e&is=65c9462e&hm=5672c14fac190c45e47ece89738e26e61f2c0563a8f96642fea50bb98ab16890&)
 
@@ -39,7 +39,7 @@ The press release is rich in corporate buzzwords, as if written by a chatbot to 
 ![alt](https://raw.githubusercontent.com/smashtotal/future_lawyer/main/Westlaw_cocounsel.png)
 ##### <i>Who else does nothing but review documents and write memos the first two-to-five years of their career?  New law grads in big firms, mostly.</i>
 
-A November 2023 <i>Above the Law</i> post discussing Westlaw made the case for its upcoming AI products more bluntly than any marketing company dare would:
+A November 2023 <i>Above the Law</i> [post discussing Westlaw](https://abovethelaw.com/2023/11/westlaw-ai-launch-forces-confrontation-with-the-inner-workings-of-a-lawyers-mind/) made the case for its upcoming AI products more bluntly than any marketing company dare would:
 
 >The proper comparison is to the 2 hours a junior associate would bill [compared to 2-4 minutes for Westlaw's AI] for taking all that research and pumping out a two-page memo.
 
@@ -51,7 +51,7 @@ A bad sign for anyone taking out law school loans that this early into the AI re
 
 ## Legal Economics <a name="paragraph2"></a>
 
-The economics speak in favor of 
+But why woo
 
 While politically connected partners are safe, 
 
