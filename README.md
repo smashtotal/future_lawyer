@@ -15,14 +15,14 @@ Most everyone is familiar with the Hollywood romantacized image on the underdog 
 ![alt](https://reellibrarians.files.wordpress.com/2014/04/anatomyofamurderlawbooks-e1550100366918.jpg)
 ##### <i>Jimmy Stewart hitting the stacks in "Anatomy of a Murder".</i>
 
-To the extent this image ever real, technnology began to slit its throat as early as 1974 when West Publishing, a publisher of case law digests and other legal publishing since 1872, developed a computer system to search case headnotes across its publications. The product entered the market in 1975, and eventually became known as Westlaw: the now ubiqutious legal research tool that took lawyers out of the stacks, and anchored them to their desktops. Out were flipping pages, and in was keyword searches by hordes of young associates, billed to clients at many hundreds of dollars-per-hour. Now owned by Thomson Reuters, Westlaw controls over 35% of the $406.1 million (as of 2019) legal research market.
+To the extent this image ever real, technnology began to slit its throat [as early as 1974](https://riesenfeldcenter.blogspot.com/2023/03/west-publishing-and-history-of-westlaw.htm) when West Publishing, a publisher of case law digests and other legal publishing since 1872, developed a computer system to search case headnotes across its publications. The product entered the market in 1975, and eventually became known as Westlaw: the now ubiqutious legal research tool that took lawyers out of the stacks, and anchored them to their desktops. Out were flipping pages, and in was keyword searches by hordes of young associates, billed to clients at many hundreds of dollars-per-hour. Now owned by Thomson Reuters, Westlaw controls [over 35%](https://6sense.com/tech/legal-research/westlaw-vs-lexisadvance) of the $406.1 million (as of 2019) [legal research market](https://growthmarketreports.com/report/legal-research-software-market-global-industry-analysis).
 
-The legal professional itself is famously clumsy adapting to technology innovations.  (For instance, Maryland courts in 2017 created a rule that established higher bars for authenticating social media posts than other types of evidence.  This just as the world--and evidence--was moving more and more into the virtual world of Facebook and Twitter.) Yet Westlaw was a product born from the early adoption of a new technology, and its success was largely the result of that first-mover advantage. 
+The legal professional itself is famously clumsy adapting to technology innovations.  For instance, Maryland courts in 2007 created a rule that established higher bars for [authenticating social media posts](https://www.naag.org/attorney-general-journal/status-update-on-authenticating-social-media-evidence-the-three-primary-approaches-applied-nationally/) than other types of evidence.  This just as the world--and evidence--was moving more and more into the virtual world of Facebook and Twitter.
 
-The question is, can it do it again in the age of AI?
+Yet Westlaw was a product born from the early adoption of a new technology, and its success was largely the result of that first-mover advantage. The question is, can it do it again in the age of AI?
 
-## Robo-Research+ <a name="paragraph1"></a>
 ![alt](https://cdn.discordapp.com/attachments/1148303423045910558/1206376142164987944/smashmcadams_A_robot_doing_legal_research_with_law_books_in_the_d807a4e5-d688-4338-9df2-07517f7fb64a.png?ex=65dbc855&is=65c95355&hm=a8750ebf054ee924c82a7b70a1d68724d00415998d0701afa779973805c2eb9b&)
+## Robo-Research+ <a name="paragraph1"></a>
 
 Westlaw certainly believes it can.  Long before the AI dam broke, Thomson Reuters as early as 2018 was trying to incorporate AI into its products, starting with [Westlaw Edge](https://www.techlawcrossroads.com/2018/07/westlaw-edge-ai-goes-mainstream/).  In many ways, Westlaw Edge's original focus on data analytics, searching for things like how often a judge grants or denies certain types of motions, anticipated the predictive power of AI that only now is receiving mainstream attention.  
 
@@ -45,13 +45,18 @@ A November 2023 <i>Above the Law</i> [post discussing Westlaw](https://abovethel
 
 What about the quality of advice?  From the same post:
 
->But an anonymous Thomson Reuters in-house customer said after seeing these new capabilities: “This is substantially the same advice I just paid to get from outside counsel and was billed about 15 hours.”
+>But an anonymous Thomson Reuters in-house customer said after seeing these new [AI] capabilities: “This is substantially the same advice I just paid to get from outside counsel and was billed about 15 hours.”
 
-A bad sign for anyone taking out law school loans that this early into the AI revolution, junior associates are already being outpaced by what was just their predecessors' search engine up until last year.  
+A bad sign for anyone taking out law school loans that this early into the AI revolution, junior associates are already being outpaced by what was just their predecessors' case law search engine up until last year.  
 
+![alt](https://cdn.discordapp.com/attachments/1148303423045910558/1206412692688998522/smashmcadams_A_robot_as_a_lawyer_presenting_a_case_in_a_courtro_7aa85bf5-b233-45a8-8068-66c19607f659.png?ex=65dbea60&is=65c97560&hm=a01c853a560001ee6d3a3571d04cb375e3a16abc9b17daf2c90e037015f44dca&)
 ## Legal Economics <a name="paragraph2"></a>
 
-But why woo
+To be clear, the issue is not Westlaw marketing AI lawyers per se.  With [175 members of Congress](https://www.americanbar.org/advocacy/governmental_legislative_work/publications/washingtonletter/january-2021-wl/attorneys-117thcongress/) having law degrees as of 2021 and a well-oiled lobbying machine, the 
+
+Corporate law firms had revenues of [$160.4 billion](https://www.ibisworld.com/industry-statistics/market-size/corporate-law-firms-united-states/) in 2023. If one could 
+
+Corporate law 
 
 While politically connected partners are safe, 
 
