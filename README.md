@@ -37,9 +37,9 @@ The press release is rich in corporate buzzwords, as if written by a chatbot to 
 ![alt](https://raw.githubusercontent.com/smashtotal/future_lawyer/main/Westlaw_cocounsel.png)
 ##### <i>Who else does nothing but review documents and write memos the first two-to-five years of their career?  New law grads in big firms, mostly.</i>
 
-A November 2023 <i>Above the Law</i> post discussing Westlaw's made the case for its new or upcoming AI products more bluntly than any marketing company would:
+A November 2023 <i>Above the Law</i> post discussing Westlaw made the case for its pcoming AI products more bluntly than any marketing company dare would:
 
->Imagine a client looking to rid itself of an eyesore of a statue. In the AI-assisted research window, the user can pose a simple question — filtered by jurisdiction, of course. While a generic AI might shotgun approach this issue and spit out random — or hallucinatory — thoughts as it tries to please the user with its result, the Westlaw response figures out not just where to look but the key requirements a lawyer needs from the answer.
+>The proper comparison is to the 2 hours a junior associate would bill [compared to 2-4 minutes for Westlaw's AI] for taking all that research and pumping out a two-page memo.
 
 
 
