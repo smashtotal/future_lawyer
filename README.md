@@ -24,7 +24,9 @@ The question is, can it do it again in the age of AI?
 ## Robo-Research+<a name="paragraph1"></a>
 ![alt](https://cdn.discordapp.com/attachments/1148303423045910558/1206376142164987944/smashmcadams_A_robot_doing_legal_research_with_law_books_in_the_d807a4e5-d688-4338-9df2-07517f7fb64a.png?ex=65dbc855&is=65c95355&hm=a8750ebf054ee924c82a7b70a1d68724d00415998d0701afa779973805c2eb9b&)
 
-Westlaw certainly believes it can.  In late 2023, Thomson Reuters announced several new and upcoming AI products under the [Westlaw banner](https://www.prnewswire.com/news-releases/thomson-reuters-launches-generative-ai-powered-solutions-to-transform-how-legal-professionals-work-301989149.html):
+Westlaw certainly believes it can.  Long before the AI dam broke, Thomson Reuters as early as 2018 was trying to incorporate AI into its products, starting with Westlaw Edge.
+
+In late 2023, Thomson Reuters announced several new and upcoming AI products under the [Westlaw banner](https://www.prnewswire.com/news-releases/thomson-reuters-launches-generative-ai-powered-solutions-to-transform-how-legal-professionals-work-301989149.html):
 
 >- AI-Assisted Research on <b>Westlaw Precision</b> – Better, faster answers to complex research questions drawn from the industry's most comprehensive collection of editorially enhanced content  
 >- A new **GenAI assistant** connects all Thomson Reuters generative AI products, building on innovation from Casetext 
@@ -37,9 +39,15 @@ The press release is rich in corporate buzzwords, as if written by a chatbot to 
 ![alt](https://raw.githubusercontent.com/smashtotal/future_lawyer/main/Westlaw_cocounsel.png)
 ##### <i>Who else does nothing but review documents and write memos the first two-to-five years of their career?  New law grads in big firms, mostly.</i>
 
-A November 2023 <i>Above the Law</i> post discussing Westlaw made the case for its pcoming AI products more bluntly than any marketing company dare would:
+A November 2023 <i>Above the Law</i> post discussing Westlaw made the case for its upcoming AI products more bluntly than any marketing company dare would:
 
 >The proper comparison is to the 2 hours a junior associate would bill [compared to 2-4 minutes for Westlaw's AI] for taking all that research and pumping out a two-page memo.
+
+What about the quality of advice?  From the same post:
+
+>But an anonymous Thomson Reuters in-house customer said after seeing these new capabilities: “This is substantially the same advice I just paid to get from outside counsel and was billed about 15 hours.”
+
+So this early in the AI revolution, lawyers 
 
 
 
